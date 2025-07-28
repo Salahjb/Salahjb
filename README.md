@@ -93,7 +93,7 @@ Here are some ideas to get you started:
  
  🔭 **I’m currently looking for an internship (PFE)**
  
- 🌱 I’m currently learning **Spring boot, Angular, Oracle database**
+ 🌱 I’m currently learning **Github actions, Kubernetes, Terraform**
 
 💬 Ask me about **Node.js, React, Laravel ... or anything**
 
