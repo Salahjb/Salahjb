@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 **I’m currently looking for an internship (FYP)**
+ 🔭 **I’m currently looking for an internship (PFE)**
  
  🌱 I’m currently learning **Spring boot, Angular, Oracle database**
 
