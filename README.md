@@ -118,7 +118,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma,tailwind,git,laravel,c,cpp,postgres,pytorch,neovim,unity,php,python,symfony,postman,docker,ubuntu,bash,cs,nodejs,javascript,typescript,express,mongodb,java,nextjs,mysql,k8s,sklearn,tensorflow,qt,spring,dotnet,vite,linux,latex,sqlite,jenkins,flask,go,opencv,githubactions" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma,tailwind,git,laravel,c,cpp,postgres,pytorch,neovim,unity,php,python,symfony,postman,docker,ubuntu,bash,cs,nodejs,javascript,typescript,express,mongodb,java,nextjs,mysql,k8s,sklearn,tensorflow,qt,spring,dotnet,vite,linux,latex,sqlite,jenkins,flask,go,opencv,githubactions,kali,jquery,flutter,arduino,anaconda" />
 </div>
 
 <br/>
