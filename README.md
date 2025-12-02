@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Spring boot, Angular, Oracle database**
 
-💬 Ask me about **Node.js, React,Laravel ... or anything**
+💬 Ask me about **Node.js, React,Springboot ... or anything**
 
 ⚡♟️ Fun fact **I'm a chess Player**
 
