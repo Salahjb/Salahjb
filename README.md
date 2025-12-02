@@ -95,7 +95,7 @@ Here are some ideas to get you started:
  
  🌱 I’m currently learning **Github actions, Kubernetes, Terraform**
 
-💬 Ask me about **Node.js, React, Laravel ... or anything**
+💬 Ask me about **Node.js, React, Springboot ... or anything**
 
 ⚡♟️ Fun fact **I'm a chess Player**
 
